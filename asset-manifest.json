@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/E-Auction-Hosting/static/css/main.1ee80c8b.css",
+    "main.js": "/E-Auction-Hosting/static/js/main.47dc6337.js",
+    "static/js/488.89cd1390.chunk.js": "/E-Auction-Hosting/static/js/488.89cd1390.chunk.js",
+    "static/media/AuctionHaiProfilePic1.jpeg": "/E-Auction-Hosting/static/media/AuctionHaiProfilePic1.719089c8228b0c7b8813.jpeg",
+    "static/media/istockphoto-1439686281-612x612.jpg": "/E-Auction-Hosting/static/media/istockphoto-1439686281-612x612.f83e1893ee8cd336a7da.jpg",
+    "static/media/logo.svg": "/E-Auction-Hosting/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/E-Auction-Hosting/index.html",
+    "main.1ee80c8b.css.map": "/E-Auction-Hosting/static/css/main.1ee80c8b.css.map",
+    "main.47dc6337.js.map": "/E-Auction-Hosting/static/js/main.47dc6337.js.map",
+    "488.89cd1390.chunk.js.map": "/E-Auction-Hosting/static/js/488.89cd1390.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ee80c8b.css",
+    "static/js/main.47dc6337.js"
+  ]
+}
